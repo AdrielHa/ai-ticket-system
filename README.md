@@ -1,80 +1,122 @@
-\*\*Welcome to your Base44 project\*\* 
+# AI Ticket System
 
+AI-powered enterprise ticket management platform built with a modern SaaS dashboard architecture.
 
+---
 
-\*\*About\*\*
+# Overview
 
+AI Ticket System is a modern incident management and technical support platform inspired by enterprise SaaS products like Linear, Jira, Stripe Dashboard, and Notion.
 
+The application focuses on intelligent ticket workflows, AI-assisted incident analysis, and premium user experience design.
 
-View and Edit  your app on \[Base44.com](http://Base44.com) 
+---
 
+# Features
 
+- Modern SaaS dashboard UI
+- Enterprise ticket management system
+- AI-powered ticket insights
+- Incident priority analysis
+- Ticket categorization
+- Dashboard analytics
+- Interactive charts
+- Activity timeline
+- Ticket filtering & search
+- Modern responsive layout
+- Modular architecture
+- Dark premium UI design
 
-This project contains everything you need to run your app locally.
+---
 
+# Modules
 
+## Dashboard
+- Metrics overview
+- Ticket analytics
+- AI insights panel
+- Incident monitoring
+- Activity charts
 
-\*\*Edit the code in your local development environment\*\*
+## Tickets
+- Ticket table
+- Priority badges
+- Status management
+- Filtering & sorting
+- AI risk indicators
 
+## AI Assistant
+- AI incident analysis
+- Smart recommendations
+- Ticket summaries
+- Suggested actions
 
+## Users
+- User management
+- Team overview
 
-Any change pushed to the repo will also be reflected in the Base44 Builder.
+## Reports
+- Incident reporting
+- Analytics visualization
 
+## Settings
+- Application settings
+- Profile management
 
+---
 
-\*\*Prerequisites:\*\* 
+# Screenshots
 
+## Dashboard
 
+![Dashboard](./screenshots/dashboard.png)
 
-1\. Clone the repository using the project's Git URL 
+---
 
-2\. Navigate to the project directory
+## Tickets
 
-3\. Install dependencies: `npm install`
+![Tickets](./screenshots/tickets.png)
 
-4\. Create an `.env.local` file and set the right environment variables
+---
 
+## AI Assistant
 
+![AI Assistant](./screenshots/ai-assistant.png)
 
-```
+---
 
-VITE\_BASE44\_APP\_ID=your\_app\_id
+## SaaS Layout
 
-VITE\_BASE44\_APP\_BASE\_URL=your\_backend\_url
+![Layout](./screenshots/layout.png)
 
+---
 
+# Tech Stack
 
-e.g.
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- Modern SaaS UI Architecture
 
-VITE\_BASE44\_APP\_ID=cbef744a8545c389ef439ea6
+---
 
-VITE\_BASE44\_APP\_BASE\_URL=https://my-to-do-list-81bfaad7.base44.app
+# Live Demo
 
-```
+https://aura-ticket-flow.base44.app
 
+---
 
+# Project Goals
 
-Run the app: `npm run dev`
+This project was created to simulate a real-world enterprise support platform focused on:
+- scalable UI architecture
+- modern SaaS design systems
+- AI-assisted workflows
+- enterprise dashboard experiences
 
+---
 
+# Author
 
-\*\*Publish your changes\*\*
-
-
-
-Open \[Base44.com](http://Base44.com) and click on Publish.
-
-
-
-\*\*Docs \& Support\*\*
-
-
-
-Documentation: \[https://docs.base44.com/Integrations/Using-GitHub](https://docs.base44.com/Integrations/Using-GitHub)
-
-
-
-Support: \[https://app.base44.com/support](https://app.base44.com/support)
-
-
-
+Adriel Yulissa Hernández Albarrán
